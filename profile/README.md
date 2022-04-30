@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# About Code.AI
+Code.AI is a community dedicated for all things related to AI for code. In this community we not only discuss deep learning or code generation, we also discuss things like evolutionary computation and code documentation! It is a great place to find fellow like-minded researchers and developers, build a team of collaborators, find a project to work on, or brainstorm project and research ideas! On this channel we post video recordings of community events such as paper reading clubs and podcasts! If you are interested in AI on code please join us using our [Discord community link](https://discord.gg/68NZFfxHxD)!
